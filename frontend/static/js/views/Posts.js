@@ -15,23 +15,23 @@ export default class extends AbstractView {
             </div>
         </div>
         <center>
-<!-- this is the layout for all your projects, edit to fit your needs -->
+        <!-- this is the layout for all your projects, edit to fit your needs -->
         <div class="whitebox">
-            <a target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: black;" href="https://github.com/danielakoto/Array-Manipulation">
+            <a target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: black;" href="https://github.com/danielakoto/Splendid-IndividualProject-COSC412">
             <img src="/static/pictures/code-quality-standard.png" alt="" style="width: 100%;">
             <h1>Example Project</h1>
             <p>Try clicking me... Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates quisquam veniam obcaecati, repellendus aliquam recusandae fuga consequuntur sunt error incidunt excepturi harum exercitationem voluptatibus velit aliquid, fugit ad cum eveniet.</p>
             </a>
         </div> 
         <div class="whitebox">
-            <a target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: black;" href="https://github.com/danielakoto/New-Year-Chaos">
+            <a target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: black;" href="https://github.com/danielakoto/Hackerrank-30-Days-Code">
             <img src="/static/pictures/1722-img.jpg" alt="" style="width: 100%;">
             <h1>Example Project #2</h1>
             <p>Try clicking me...  Show a preview of your project also with a few details... Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est rem aperiam obcaecati illo asperiores perferendis assumenda sint architecto deserunt, nesciunt amet tempore voluptate sapiente et soluta unde temporibus non distinctio nisi ad, molestias sequi! Veniam, est iure culpa optio qui deleniti fugit alias, minima expedita error nisi mollitia ab at.</p>
         </a>
         </div>
         <div class="whitebox">
-            <a target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: black;" href="https://github.com/danielakoto/Minimum-Swaps-2">
+            <a target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: black;" href="https://github.com/danielakoto/Landing-Page-Template">
             <img src="/static/pictures/1723-img.jpg" alt="" style="width: 100%;">
             <h1>Example Project #3</h1>
             <p>Try clicking me...  Show a preview of your project also with a few details... Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est rem aperiam obcaecati illo asperiores perferendis assumenda sint architecto deserunt, nesciunt amet tempore voluptate sapiente et soluta unde temporibus non distinctio nisi ad, molestias sequi! Veniam, est iure culpa optio qui deleniti fugit alias, minima expedita error nisi mollitia ab at.</p>
