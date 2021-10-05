@@ -116,7 +116,7 @@ h4 {
 }
 
 img {
-    animation: transitionIn 1.5s;
+    animation: transitionIn 1s;
 }
 
 .whitebox {
@@ -126,7 +126,7 @@ img {
     background-color: white;
     color: black;
     border-radius: 5px;
-    animation: transitionIn 2s;
+    animation: transitionIn 3s;
 }
 
 .whitebox2 {
