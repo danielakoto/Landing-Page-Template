@@ -18,3 +18,7 @@ The main index.html page runs constantly and only changes the #app id when app.j
 Dashboard.js, Posts.js, Profile.js.
 these pages contain the texts that you need to make your own. 
 index.html contains the static welcome message and logo
+
+
+Site:
+https://landingpagetemplate-edf22.web.app
